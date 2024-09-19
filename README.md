@@ -26,3 +26,6 @@ Distracted Driver Detection: Built a CNN-based classifier using Computer Vision 
 
 Data Engineer - Sirah Project: Contributed to a digital humanities research project, analyzing and reconstructing early Islamic literature using advanced text reconstruction algorithms.
 Data Science Intern (TA) - Coding Ninjas India: Delivered tutorials and support on SQL, Python, and Tableau, assisting over 25 students and ensuring project success through debugging and mentoring.
+
+📄 Resume: You can view my full [![Resume](https://img.shields.io/badge/Resume-View-blue)](https://github.com/siddiq22/siddiq22/blob/main/MS_Resume.pdf) here.
+💬 Feel free to connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/siddiq-khan22/) to explore opportunities!
