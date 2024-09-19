@@ -1,7 +1,5 @@
 # Hi there, I'm Siddiq 👋
 
-# Data Analyst
-
 I’m a **Data Analyst** with a strong foundation in **data analytics**, **machine learning**, and **visualization**, supported by a **Master’s in Data Science** from Indiana University’s **Luddy School of Informatics, Computing, and Engineering**. My expertise lies in transforming raw data into actionable insights to drive business decisions, utilizing a range of **analytical** and **visualization** tools.
 
 ## 💡 **Programming Skills**
@@ -29,6 +27,7 @@ I’m a **Data Analyst** with a strong foundation in **data analytics**, **machi
 - **Data Engineer - Sirah Project**: Contributed to a **digital humanities research project**, analyzing and reconstructing early Islamic literature using advanced **text reconstruction algorithms**.
 - **Data Science Intern (TA) - Coding Ninjas India**: Delivered tutorials and support on **SQL**, **Python**, and **Tableau**, assisting over 25 students and ensuring project success through **debugging** and **mentoring**.
 
+##
 
 📄 [![Resume](https://img.shields.io/badge/Resume-View-blue)](https://github.com/siddiq22/siddiq22/blob/main/MS_Resume.pdf)  You can view my full Resume here.
 
