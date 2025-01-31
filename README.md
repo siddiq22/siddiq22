@@ -29,6 +29,6 @@ I’m a **Data Analyst** with a strong foundation in **data analytics**, **machi
 
 ##
 
-📄 [![Resume](https://img.shields.io/badge/Resume-View-blue)](https://github.com/siddiq22/siddiq22/blob/main/MS_Resume.pdf)  You can view my full Resume here.
+📄 [![Resume](https://img.shields.io/badge/Resume-View-blue)](https://github.com/siddiq22/siddiq22/blob/main/MSiddiq_Resume.pdf)  You can view my full Resume here.
 
 💬 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/siddiq-khan22/)  Feel free to connect with me on LinkedIn to explore opportunities!
