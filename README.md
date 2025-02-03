@@ -27,6 +27,12 @@ I’m a **Data Analyst** with a strong foundation in **data analytics**, **machi
 - **Data Engineer - Sirah Project**: Contributed to a **digital humanities research project**, analyzing and reconstructing early Islamic literature using advanced **text reconstruction algorithms**.
 - **Data Science Intern (TA) - Coding Ninjas India**: Delivered tutorials and support on **SQL**, **Python**, and **Tableau**, assisting over 25 students and ensuring project success through **debugging** and **mentoring**.
 
+## 🎓 **Certifications**
+- [**PL-300**: Microsoft Power BI Data Analyst](https://learn.microsoft.com/en-us/users/khanmuhammadsiddiq-8675/credentials/e976fdc8b4d9bd21?ref=https%3A%2F%2Fwww.linkedin.com%2F)  
+- [**DP-203**: Microsoft Azure Data Engineering](https://learn.microsoft.com/en-us/users/khanmuhammadsiddiq-8675/credentials/36a11a64aba222d?ref=https%3A%2F%2Fwww.linkedin.com%2F)  
+- [**AZ-900**: Microsoft Azure Fundamentals](https://learn.microsoft.com/en-us/users/khanmuhammadsiddiq-8675/credentials/e65e01885ae2915f?ref=https%3A%2F%2Fwww.linkedin.com%2F)  
+- [**Tableau Desktop Certified**]
+
 ##
 
 📄 [![Resume](https://img.shields.io/badge/Resume-View-blue)](https://github.com/siddiq22/siddiq22/blob/main/MSiddiq_Resume.pdf)  You can view my full Resume here.
