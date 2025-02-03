@@ -31,7 +31,7 @@ I’m a **Data Analyst** with a strong foundation in **data analytics**, **machi
 - [**PL-300**: Microsoft Power BI Data Analyst](https://learn.microsoft.com/en-us/users/khanmuhammadsiddiq-8675/credentials/e976fdc8b4d9bd21?ref=https%3A%2F%2Fwww.linkedin.com%2F)  
 - [**DP-203**: Microsoft Azure Data Engineering](https://learn.microsoft.com/en-us/users/khanmuhammadsiddiq-8675/credentials/36a11a64aba222d?ref=https%3A%2F%2Fwww.linkedin.com%2F)  
 - [**AZ-900**: Microsoft Azure Fundamentals](https://learn.microsoft.com/en-us/users/khanmuhammadsiddiq-8675/credentials/e65e01885ae2915f?ref=https%3A%2F%2Fwww.linkedin.com%2F)  
-- [**Tableau Desktop Certified**]
+- **Tableau Desktop Certified**
 
 ##
 
